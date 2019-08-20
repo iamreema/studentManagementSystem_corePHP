@@ -1,0 +1,18 @@
+.admintittle
+{
+	background-color: brown;
+	color: #fff;
+	margin-left:50px;
+	margin-right: 50px; 
+	height: 140px;
+	line-height: 140px;
+}
+.dashboard
+{
+	background-color: skyblue;
+	color: #000;
+	font-size:25px;
+	margin-left:50px;
+	margin-right: 50px; 
+	height: 140px;
+}
